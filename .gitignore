@@ -1,0 +1,4 @@
+node_modules/
+/_emilia_generated.js
+/all_core.js
+/cert/*.pem
